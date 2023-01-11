@@ -42,12 +42,10 @@ function validAddress() {
       }
    });
 }
-
 //save method
 const save = () => {
    alert("Save button");
 };
-
 //reset method
 const reset = () => {
    alert("Reset button");
